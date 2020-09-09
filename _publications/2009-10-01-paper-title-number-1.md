@@ -3,8 +3,8 @@ title: "Nand Singh and Jangnama Europe: Subaltern insights on the wars of empire
 collection: publications
 permalink: 'https://blogs.lse.ac.uk/southasia/2017/04/05/nand-singh-and-jangnamah-europe-subaltern-insights-on-the-wars-of-empire/'
 excerpt: 'This paper is about the number 1. The number 2 is left for future work.'
-date: 
-venue: 
+date: ' '
+venue:  ' '
 paperurl: 'https://blogs.lse.ac.uk/southasia/2017/04/05/nand-singh-and-jangnamah-europe-subaltern-insights-on-the-wars-of-empire/'
 ---
 Published in [South Asia @ LSE](https://blogs.lse.ac.uk/southasia/2017/04/05/nand-singh-and-jangnamah-europe-subaltern-insights-on-the-wars-of-empire/),
