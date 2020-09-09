@@ -24,5 +24,9 @@ Research experience
 Teaching
 ======
   * Teaching Assistant, Economics 1, The University of Edinburgh (Undergraduate), Fall 2019  
-
+  
+Honors
+======
+  * Division of Social Sciences, Economics Fellowship, University of Chicago, 2020
+  * Best overall performance in M.Sc Economics, University of Edinburgh, 2019
   
