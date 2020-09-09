@@ -8,4 +8,4 @@ redirect_from:
   - /about.html
 ---
 
-I'm a first year PhD student in the Kenneth C. Griffin Department of Economics at the University of Chicago. You can find my brief CV by clicking on the tab at the top of this page.
+I'm a first year PhD student in the Kenneth C. Griffin Department of Economics at the University of Chicago. Previously I was the MacCaLM project Research Assistant at the University of Edinburgh. You can find my brief CV by clicking on the tab at the top of this page.
