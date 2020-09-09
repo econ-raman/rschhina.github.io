@@ -2,7 +2,6 @@
 title: "Nand Singh and Jangnama Europe: Subaltern insights on the wars of empire"
 collection: publications
 permalink: 'https://blogs.lse.ac.uk/southasia/2017/04/05/nand-singh-and-jangnamah-europe-subaltern-insights-on-the-wars-of-empire/'
-excerpt: 'Literary History'
 date: '2017-04-05'
 venue:  ' South Asia @ LSE, Scroll.in and Quartz'
 ---
