@@ -17,7 +17,7 @@ Education
 
 Research experience
 ======
-* MacCaLM Research Assistant
+* MacCaLM Research Assistant, 2019-2020
   * RA for Prof. Sevi Rodriguez Mora
   * RA for Prof. Rafael Lopes de Melo
   
