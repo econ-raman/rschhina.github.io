@@ -21,5 +21,8 @@ Research experience
   * RA for Prof. Sevi Rodriguez Mora
   * RA for Prof. Rafael Lopes de Melo
   
+Teaching
+======
+  * Teaching Assistant, Economics 1, The University of Edinburgh (Undergraduate), Fall 2019  
 
   
