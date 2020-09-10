@@ -15,6 +15,6 @@ Published in [South Asia @ LSE](https://blogs.lse.ac.uk/southasia/2017/04/05/nan
 ### Book chapter in The Great War: Indian Writings on the First World War by Rakhshanda Jalil, Bloomsbury (2018)
 [Book on Amazon](https://www.amazon.co.uk/The-Great-War/dp/9388271262)
 
-### Translations of two Punjabi poems in Jallianwala Bagh: Literary responses in prose and poetry (2019)
+### Translation of two Punjabi poems in Jallianwala Bagh: Literary responses in prose and poetry (2019)
 Poems by Babu Firoz din Sharaf and Giani Hira Singh Dard. [Book on Amazon](https://www.amazon.co.uk/Jallianwala-Bagh-Literary-Responses-Poetry/dp/9386906929)
 
