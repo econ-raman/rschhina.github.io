@@ -14,8 +14,7 @@ I'm a first year PhD student in the Kenneth C. Griffin Department of Economics a
 <br />
 <br />
 <br />
-<br />
-<br />
+
 
 <div style="text-align:center"><img src="./images/chicago_logo.png"  width="200" /></div>
 
