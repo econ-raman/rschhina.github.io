@@ -20,3 +20,7 @@ Anthologies
 - Translation of two Punjabi poems in Jallianwala Bagh: Literary responses in prose and poetry (2019) <br>
 Poems by Babu Firoz din Sharaf and Giani Hira Singh Dard, 20th century political poets. [Book on Amazon](https://www.amazon.co.uk/Jallianwala-Bagh-Literary-Responses-Poetry/dp/9386906929)
 
+
+Interview
+
+- [Student experience](https://www.ed.ac.uk/economics/postgraduate/scottish-graduate-programme-economics/prospective-students/why-study-with-us-msc/meet-our-phd-students/raman-chhina), M.Sc. Economics, University of Edinburgh 
