@@ -6,7 +6,7 @@ author_profile: true
 
 ---
 
-I am involved in the following projects as a Research Assistant
+I am involved in the following projects as a Research Assistant —
 
 - [Tracking the COVID-19 Crisis with High-Resolution Transaction Data](https://conference.nber.org/conf_papers/f143494.pdf) <br>
    (Carvalho, Hansen, Rodriguez Mora and the BBVA Research team)
@@ -19,6 +19,6 @@ I am involved in the following projects as a Research Assistant
    
    <br/>
    
-My Macro Reading Group [presentations](/readinggroup/) at the University of Edinburgh
+My Macro Reading Group [presentations](/readinggroup/) at the University of Edinburgh.
   
 
