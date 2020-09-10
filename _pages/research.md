@@ -17,6 +17,7 @@ I am involved in the following projects as a Research Assistant
 - Occupational Choice, Human Capital and Learning: A multi armed bandit approach <br>
    (Lopes de Melo and Papageorgiou)
    
+   <br/>
    
 My Macro Reading Group [slides](/readinggroup/) at the University of Edinburgh
   
