@@ -3,9 +3,7 @@ permalink: /writing/
 title: " "
 excerpt: " "
 author_profile: true
-redirect_from: 
-  - /writing/
-  - /writing.html
+
 ---
 
 ## Nand Singh and Jangnama Europe: Subaltern insights on the wars of empire
