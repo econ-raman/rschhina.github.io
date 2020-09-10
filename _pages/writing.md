@@ -1,5 +1,5 @@
 ---
-permalink: /
+permalink: /writing/
 title: " "
 excerpt: " "
 author_profile: true
