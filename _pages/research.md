@@ -19,6 +19,6 @@ I am involved in the following projects as a Research Assistant
    
    <br/>
    
-My Macro Reading Group [slides](/readinggroup/) at the University of Edinburgh
+My Macro Reading Group [presentations](/readinggroup/) at the University of Edinburgh
   
 
