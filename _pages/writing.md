@@ -11,6 +11,8 @@ Articles
 Published in [South Asia @ LSE](https://blogs.lse.ac.uk/southasia/2017/04/05/nand-singh-and-jangnamah-europe-subaltern-insights-on-the-wars-of-empire/),
         [Scroll](https://scroll.in/magazine/834046/death-holds-no-fear-for-us-a-sikh-soldiers-insights-into-the-horrors-of-world-war-i),
         [Quartz](https://qz.com/india/955222/glimpses-of-indias-colonial-wars-through-the-sikh-footsoldiers-poetry/)
+- A Functioning Consumer Bankruptcy Code Can Help Those Indian Debtors Who Are Paying Back With Their Lives <br>
+Published in [South Asia @ LSE](https://blogs.lse.ac.uk/southasia/2022/04/26/a-functioning-consumer-bankruptcy-code-can-help-those-indian-debtors-who-are-paying-back-with-their-lives/)
 
 
 Anthologies 
